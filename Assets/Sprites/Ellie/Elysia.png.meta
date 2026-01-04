@@ -1,0 +1,2754 @@
+fileFormatVersion: 2
+guid: 32e8700f10a8c6e43b4b56d42280f555
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elysia_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1753
+        width: 206
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6c2790b2e0f2b40829cebd77e45d12
+      internalID: -53281638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1753
+        width: 206
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee414ce8e9c157247a1883ea2673a126
+      internalID: -581345311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_2
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1753
+        width: 206
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142c63fda7c05954480cfe2c1c83d41a
+      internalID: 569451330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_3
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1753
+        width: 208
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb4261425d41d441bd99f8e25ce65ad
+      internalID: 1687182473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_4
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1753
+        width: 207
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80a0efe1830a384cbccb9e903d0fe03
+      internalID: 316190063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_5
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1753
+        width: 208
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617d7bf62685d8a4c9189d686bd9fcc2
+      internalID: -403828954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_6
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1753
+        width: 208
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f479466b943fe40867060cdf84f76e
+      internalID: 1372594479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_7
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1753
+        width: 208
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389025cfde021c7478675aee5a600d3c
+      internalID: 899142180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_8
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1753
+        width: 210
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409390a7f3932b34db22ec2c19473046
+      internalID: -382685797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_9
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1753
+        width: 208
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886fc3fa2c3a9654b8c009a6b001b8eb
+      internalID: -1250223586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_10
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 1753
+        width: 210
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949a24da3676dc54181191e312345e05
+      internalID: -1205296142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_11
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 1753
+        width: 208
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dab40907d516184d8fc31704b490f75
+      internalID: 1110120249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_12
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 1753
+        width: 210
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18953f5d5a1c680499b1e336dea6c4be
+      internalID: 1453224880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_13
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 1753
+        width: 210
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacc19a5f015ce144a91cb891a584da1
+      internalID: 1792206741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_14
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 1753
+        width: 208
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9b1715713479a49bdb6b35f12b1291
+      internalID: -2020411685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_15
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 1753
+        width: 208
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eb3b169ea385644952d9896134afd4
+      internalID: 79865254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_16
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 1753
+        width: 208
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99bdb884039a1d4299d9b2e610af95e
+      internalID: 709462361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_17
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 1753
+        width: 208
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56b79c1e7a1b0542a104de2f776ee3a
+      internalID: -2035527280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_18
+      rect:
+        serializedVersion: 2
+        x: 4139
+        y: 1753
+        width: 209
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be04adeadda0f641ba367ca94ad74df
+      internalID: 1331938229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_19
+      rect:
+        serializedVersion: 2
+        x: 4369
+        y: 1753
+        width: 208
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc6998cec5d9264e887ca345989a314
+      internalID: 576657280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1404
+        width: 207
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79086d2dbd76dd4bac17dd7860df5bc
+      internalID: -2080899210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1404
+        width: 208
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c13cf4ec521b147845d21381ec35b4
+      internalID: -808806797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_22
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1404
+        width: 206
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268e8f505df76d1408730305957ae333
+      internalID: 305384414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_23
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1404
+        width: 205
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573fab7d0684daf4c87eb40a2233a8c3
+      internalID: 1574021695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_24
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1404
+        width: 205
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4863516a6ff245243b589a9ceaf7aa4d
+      internalID: 1666727163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_25
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1404
+        width: 206
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d45453272740004588e4ef2ae8968bf
+      internalID: 1482032342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_26
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1404
+        width: 206
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ad732889d83d44fba7c0cc3b71784a
+      internalID: 1757581567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_27
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1404
+        width: 204
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac32dd0106e1e74a8eec67527d2d8e9
+      internalID: -171971898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_28
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1404
+        width: 205
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e8f1547220b43458d01a4652d9d2f9
+      internalID: -1445277828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_29
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 1404
+        width: 203
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590d09aecaf0e22419c4d2d7a563e964
+      internalID: 1011562930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_30
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 1404
+        width: 204
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ea8d4aa6622094fa96ef90b7f00223
+      internalID: -785755206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_31
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 1404
+        width: 204
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d199417a322fc4e87f738f8ea913b8
+      internalID: 266877929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_32
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 1404
+        width: 204
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea5a45832f0ef84481d6f4b7daa9b13
+      internalID: 2009486396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_33
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 1404
+        width: 203
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beef4ba6c830f24eb5473cfa8f32a2b
+      internalID: 715979169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_34
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 1404
+        width: 201
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7492e06cb6eb3446b99096d53b067e6
+      internalID: 1474944670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_35
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 1404
+        width: 203
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f363584d63cff40b30a58c285a3449
+      internalID: 227693511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_36
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 1404
+        width: 204
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d926018d00652804491bd108e03a456d
+      internalID: 1300429299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_37
+      rect:
+        serializedVersion: 2
+        x: 3912
+        y: 1404
+        width: 202
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bcae939654f6e4c9549a8b343cc9f9
+      internalID: 538801796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_38
+      rect:
+        serializedVersion: 2
+        x: 4141
+        y: 1404
+        width: 203
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46dc88b810bb934ba3f4e8e8b2cb32d
+      internalID: 1209596152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_39
+      rect:
+        serializedVersion: 2
+        x: 4371
+        y: 1404
+        width: 201
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed98388cf846a554ba79bd4ea845d3a2
+      internalID: 1226086668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1055
+        width: 201
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462486211834d364781a874bc0cc15d9
+      internalID: 1249792146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_41
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1055
+        width: 204
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6ad00e9c7300543a3f748b329d92dc
+      internalID: -1752486272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_42
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1055
+        width: 202
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37eaf9f32f93b2b4bac7bbcdd96cef59
+      internalID: -802638753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_43
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1055
+        width: 201
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2bbe4a774eac8469a0d7b32be5ff3d
+      internalID: -1428758830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_44
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1055
+        width: 203
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a73d0a79fe690408ab3990998e3bcd
+      internalID: -1446033782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_45
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1055
+        width: 201
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d637ae55c63efbd4589577c8538fb607
+      internalID: 606015969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_46
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1055
+        width: 203
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b673c39404e67b418dc86d03579c905
+      internalID: 679573127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_47
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1055
+        width: 204
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8816e96df5ffe37488de8fce677c3e35
+      internalID: 1152049809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_48
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1055
+        width: 202
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1be15b129d825242b45ffdd20b9c3ae
+      internalID: 480835910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_49
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1055
+        width: 203
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4ba10afc92f19428eda3bf6b88768b
+      internalID: 1050415660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_50
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 1055
+        width: 201
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3726497965745194da233d7906d045f7
+      internalID: -1692105024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_51
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 1055
+        width: 204
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddf18628fb39c9458dcd6141f42c40f
+      internalID: 1184399646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_52
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 1055
+        width: 204
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fcb3f211d4b39479291b4184054c9a
+      internalID: -456316484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_53
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 1055
+        width: 206
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e27e37ccac6b644928ee2a183e313f
+      internalID: -1098286094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_54
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 1055
+        width: 203
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efaa6889f84aa743b021f6fa1604ae2
+      internalID: -1063237784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_55
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 1055
+        width: 205
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c5397a8ca15344abae5a54b39968b0
+      internalID: -1084748720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_56
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 1055
+        width: 204
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a2ba03234597241b5d83f37500826f
+      internalID: 1924697229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_57
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 1055
+        width: 206
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94d2b93827b9da46a00f4c97d479c3e
+      internalID: 2143861223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_58
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 1055
+        width: 206
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5009b7852b88f469b745299bf30195
+      internalID: -1296759870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_59
+      rect:
+        serializedVersion: 2
+        x: 4369
+        y: 1055
+        width: 205
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9a3fae9d3c8e3498c92c65cf481ee2
+      internalID: 114539694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 706
+        width: 206
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956ebce4c623a6947a0ba8f1f2480ed9
+      internalID: -1888309019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_61
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 706
+        width: 206
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273a2e72b75280144827634c35444e95
+      internalID: -1835058058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_62
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 706
+        width: 206
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dc219b8f0f04649962ccdd50eb1290
+      internalID: 1049459294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_63
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 706
+        width: 208
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19ced67a53c216449e1c8d64dcd96ff
+      internalID: -1701097332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_64
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 706
+        width: 207
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b352d17b3bfe7348a54c31d25da2891
+      internalID: 1380732228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_65
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 706
+        width: 208
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dfd17566935a74393d08e35fd02aec
+      internalID: -1519835507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_66
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 706
+        width: 208
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511cf1abe353c1447ae4492b485cd798
+      internalID: -1579277968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_67
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 706
+        width: 208
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f11aab4eeaa34547b79b400d54e311a
+      internalID: 1486202717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_68
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 706
+        width: 209
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a5d5e506867ed4cac6af0bd053d521
+      internalID: 621773270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_69
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 706
+        width: 208
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d107282b18102ae43b46dba10eee8896
+      internalID: 70081231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_70
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 706
+        width: 208
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b16fa40742b8344be652d006a88115
+      internalID: 669408548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_71
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 706
+        width: 208
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b06fcc56565924bbfbc43874ce796f
+      internalID: -1607321096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_72
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 706
+        width: 210
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b42becd1df56ca4ba8f824466ec09ed
+      internalID: 463855528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_73
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 706
+        width: 210
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4543a2adfee9db140b3a838038282307
+      internalID: -1243917808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_74
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 706
+        width: 208
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080cc8a1103fcb244979bd8efdcf0678
+      internalID: -406503526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_75
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 706
+        width: 208
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcb5f7179fcfb24287ce77aeda8bd6c
+      internalID: -908274950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_76
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 706
+        width: 208
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b7fc489878a1d42847f064c9c645a1
+      internalID: -2005317729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_77
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 706
+        width: 208
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85624a9cf3aeb7458826c0819562347
+      internalID: -202810155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_78
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 706
+        width: 210
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32db73cc94504024daa8580e607b137d
+      internalID: -1393109543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_79
+      rect:
+        serializedVersion: 2
+        x: 4369
+        y: 706
+        width: 208
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53d5d31ac7cbb245aa5ddd1750f598f
+      internalID: -383959570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_80
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 357
+        width: 207
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49467e5781c2f8243b7b9ae794a5dfb1
+      internalID: -430121446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_81
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 357
+        width: 208
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec390790707fa74ebffb230fbc5e8c9
+      internalID: -2131125258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_82
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 357
+        width: 206
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00181c4d726690647bc34ee01aed3136
+      internalID: -223266307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_83
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 357
+        width: 205
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5477098ac74feaa4d9a2b08be8d3c359
+      internalID: -258728966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_84
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 357
+        width: 203
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1839ab1053c344a9c28e2be12f9899
+      internalID: 1035820178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_85
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 357
+        width: 206
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac45b5ce536ed04e99e6cc9a852706d
+      internalID: 2049247136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_86
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 357
+        width: 206
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f5d039377dd4b46aa68926b447b2b6
+      internalID: -1898981732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_87
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 357
+        width: 204
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddde706dde66a34a9723ce66c58beaa
+      internalID: -1290935468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_88
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 357
+        width: 205
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62941395627e1d4ea8a6edefaf0097e
+      internalID: 973662739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_89
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 357
+        width: 203
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec338fbf1a99c042b8cd0b843c2c89c
+      internalID: -407667389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_90
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 357
+        width: 204
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec31c4f5859d8fe43bed82b2208040c7
+      internalID: 1479184163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_91
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 357
+        width: 204
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e6fff46527fcc4c911f7099bd22737
+      internalID: 1747737193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_92
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 357
+        width: 204
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463917b1fa1b2e14584a751105d3f24f
+      internalID: 501032034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_93
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 357
+        width: 203
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6413f4374e50596439e5bd69320db4a8
+      internalID: 16386974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_94
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 357
+        width: 201
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d73e4b0eb8359844ba2fa09e8e4264e
+      internalID: -1911714614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_95
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 357
+        width: 203
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b6c42ee3fade445a9ba79b3cd9bd9f
+      internalID: 1645269409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_96
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 357
+        width: 204
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47265ef5cb3dbc4a938a057d02589cf
+      internalID: -737811787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_97
+      rect:
+        serializedVersion: 2
+        x: 3912
+        y: 357
+        width: 202
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307544ea1b37c2349a7f2fdda702a364
+      internalID: 1896308913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_98
+      rect:
+        serializedVersion: 2
+        x: 4141
+        y: 357
+        width: 203
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d729354e5f52904d896c8376adc2612
+      internalID: -77984692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_99
+      rect:
+        serializedVersion: 2
+        x: 4371
+        y: 357
+        width: 201
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc1a8f375e3b984585362ebfb73948b
+      internalID: 2135343169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_100
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 8
+        width: 201
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d76c831a0ef154ba5eb74d325371e2
+      internalID: 1602751186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_101
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 8
+        width: 204
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243cb37f3dd1fe14b9a90166e13c2fa1
+      internalID: -372861944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_102
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 8
+        width: 202
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b7722f5602efd459fb71b392df9729
+      internalID: 1071956124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_103
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 8
+        width: 201
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74203b989cb619448397e1a54d2b6ca
+      internalID: 653145398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_104
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 8
+        width: 203
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43336757f47a41f4d96fdc3e5ddf0dd2
+      internalID: 1199338655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_105
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 8
+        width: 201
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df8b5216731a464aa5853246e066405
+      internalID: 1275276328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_106
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 8
+        width: 203
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6d78edbf7ed6f4a93b9468b3ef1df7
+      internalID: 470888188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_107
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 8
+        width: 204
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c42cc7677236c449023f95fc772a38
+      internalID: 1217533748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_108
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 8
+        width: 202
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1217938617c700a4c889720572d4b3c1
+      internalID: -1916832121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_109
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 8
+        width: 203
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65fb0049840ebc4291f2521209cbfb6
+      internalID: 1594894683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_110
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 8
+        width: 201
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e2951c544498c4782d1f08416ad5d5
+      internalID: 1052485840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_111
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 8
+        width: 204
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e4f15bf9a503b48bdc64f16bbe144e
+      internalID: -940498389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_112
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 8
+        width: 204
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b87fdc2f400014aab569ceda409e41
+      internalID: -1061677318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_113
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 8
+        width: 206
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1eb911427e3c148a6e16b8675967d3
+      internalID: -256907488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_114
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 8
+        width: 203
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13763fdae7ca20243b48dead433bf93c
+      internalID: 561088944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_115
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 8
+        width: 205
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82340c1493dc3046949335e771d755b
+      internalID: 263577908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_116
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 8
+        width: 204
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6880485e90e80394f87bdb91344d6a7f
+      internalID: 994779463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_117
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 8
+        width: 206
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a889ac0544d89041a922b71ea43d388
+      internalID: 1319971707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_118
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 8
+        width: 206
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda7b5e5a9c25794793c9bd849b87f9c
+      internalID: -1670282367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elysia_119
+      rect:
+        serializedVersion: 2
+        x: 4369
+        y: 8
+        width: 205
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a386342bbe61a49ab28662ae5862d6
+      internalID: 693265031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Elysia_0: -53281638
+      Elysia_1: -581345311
+      Elysia_10: -1205296142
+      Elysia_100: 1602751186
+      Elysia_101: -372861944
+      Elysia_102: 1071956124
+      Elysia_103: 653145398
+      Elysia_104: 1199338655
+      Elysia_105: 1275276328
+      Elysia_106: 470888188
+      Elysia_107: 1217533748
+      Elysia_108: -1916832121
+      Elysia_109: 1594894683
+      Elysia_11: 1110120249
+      Elysia_110: 1052485840
+      Elysia_111: -940498389
+      Elysia_112: -1061677318
+      Elysia_113: -256907488
+      Elysia_114: 561088944
+      Elysia_115: 263577908
+      Elysia_116: 994779463
+      Elysia_117: 1319971707
+      Elysia_118: -1670282367
+      Elysia_119: 693265031
+      Elysia_12: 1453224880
+      Elysia_13: 1792206741
+      Elysia_14: -2020411685
+      Elysia_15: 79865254
+      Elysia_16: 709462361
+      Elysia_17: -2035527280
+      Elysia_18: 1331938229
+      Elysia_19: 576657280
+      Elysia_2: 569451330
+      Elysia_20: -2080899210
+      Elysia_21: -808806797
+      Elysia_22: 305384414
+      Elysia_23: 1574021695
+      Elysia_24: 1666727163
+      Elysia_25: 1482032342
+      Elysia_26: 1757581567
+      Elysia_27: -171971898
+      Elysia_28: -1445277828
+      Elysia_29: 1011562930
+      Elysia_3: 1687182473
+      Elysia_30: -785755206
+      Elysia_31: 266877929
+      Elysia_32: 2009486396
+      Elysia_33: 715979169
+      Elysia_34: 1474944670
+      Elysia_35: 227693511
+      Elysia_36: 1300429299
+      Elysia_37: 538801796
+      Elysia_38: 1209596152
+      Elysia_39: 1226086668
+      Elysia_4: 316190063
+      Elysia_40: 1249792146
+      Elysia_41: -1752486272
+      Elysia_42: -802638753
+      Elysia_43: -1428758830
+      Elysia_44: -1446033782
+      Elysia_45: 606015969
+      Elysia_46: 679573127
+      Elysia_47: 1152049809
+      Elysia_48: 480835910
+      Elysia_49: 1050415660
+      Elysia_5: -403828954
+      Elysia_50: -1692105024
+      Elysia_51: 1184399646
+      Elysia_52: -456316484
+      Elysia_53: -1098286094
+      Elysia_54: -1063237784
+      Elysia_55: -1084748720
+      Elysia_56: 1924697229
+      Elysia_57: 2143861223
+      Elysia_58: -1296759870
+      Elysia_59: 114539694
+      Elysia_6: 1372594479
+      Elysia_60: -1888309019
+      Elysia_61: -1835058058
+      Elysia_62: 1049459294
+      Elysia_63: -1701097332
+      Elysia_64: 1380732228
+      Elysia_65: -1519835507
+      Elysia_66: -1579277968
+      Elysia_67: 1486202717
+      Elysia_68: 621773270
+      Elysia_69: 70081231
+      Elysia_7: 899142180
+      Elysia_70: 669408548
+      Elysia_71: -1607321096
+      Elysia_72: 463855528
+      Elysia_73: -1243917808
+      Elysia_74: -406503526
+      Elysia_75: -908274950
+      Elysia_76: -2005317729
+      Elysia_77: -202810155
+      Elysia_78: -1393109543
+      Elysia_79: -383959570
+      Elysia_8: -382685797
+      Elysia_80: -430121446
+      Elysia_81: -2131125258
+      Elysia_82: -223266307
+      Elysia_83: -258728966
+      Elysia_84: 1035820178
+      Elysia_85: 2049247136
+      Elysia_86: -1898981732
+      Elysia_87: -1290935468
+      Elysia_88: 973662739
+      Elysia_89: -407667389
+      Elysia_9: -1250223586
+      Elysia_90: 1479184163
+      Elysia_91: 1747737193
+      Elysia_92: 501032034
+      Elysia_93: 16386974
+      Elysia_94: -1911714614
+      Elysia_95: 1645269409
+      Elysia_96: -737811787
+      Elysia_97: 1896308913
+      Elysia_98: -77984692
+      Elysia_99: 2135343169
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
