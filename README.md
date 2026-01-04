@@ -1,1 +1,2 @@
 Alberto Civera - Proyecto individual del desarrollo de un juego basado en un plataformas con tiempo límite, que se irá extendiendo al llegar a checkpoints, con el objetivo de llegar a un checkpoint final y completar el nivel.
+-- Amigo invisible HERNAN DINGES ASENSI, su petición es: “Que se pueda abrir un menú abajo a la derecha para jugar al buscaminas, pero que no se pueda ganar nunca.”
