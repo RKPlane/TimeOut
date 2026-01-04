@@ -10,6 +10,13 @@ public class Timer : MonoBehaviour
     private Color originalColor;
     private Coroutine colorCoroutine;
 
+    void Awake()
+    {
+        //validacion del texto
+        if (timerText == null)
+            timerText = GetComponentInChildren<TMP_Text>();
+    }
+
     void Start()
     {
         gm = GameManager.Instance;
@@ -23,7 +30,7 @@ public class Timer : MonoBehaviour
         timerText.text = gm.currentTime.ToString("F1");
     }
 
-    public void FlashGreen(float duration = 2f) //llama a la coroutina
+    public void FlashGreen(float duration = 3f) //llama a la coroutina
     {
         if (colorCoroutine != null)
             StopCoroutine(colorCoroutine);
@@ -31,11 +38,18 @@ public class Timer : MonoBehaviour
         colorCoroutine = StartCoroutine(GreenRoutine(duration));
     }
 
-    private IEnumerator GreenRoutine(float duration) //coroutina que pone el texto verde al llamarse
+    private IEnumerator GreenRoutine(float duration)
     {
+        if (timerText == null)
+        {
+            Debug.LogError("Cannot flash green: timerText is null!");
+            yield break;
+        }
+
         timerText.color = Color.green;
         yield return new WaitForSeconds(duration);
         timerText.color = originalColor;
     }
+
 }
 

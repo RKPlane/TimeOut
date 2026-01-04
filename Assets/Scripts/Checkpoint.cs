@@ -5,6 +5,7 @@ public class Checkpoint : MonoBehaviour
     private Animator characterAnimator;
     public float timeBonus = 2.5f;
     private bool activated = false;
+    public Timer timer; //validacion texto
 
     private void Awake()
     {
@@ -20,7 +21,11 @@ public class Checkpoint : MonoBehaviour
             activated = true;
             characterAnimator.SetBool("Activated", true); //cambiar color de las poles y banderas
             GameManager.Instance.AddTime(timeBonus);
-            Object.FindFirstObjectByType<Timer>().FlashGreen(2f);//llamar coroutina
+            if (timer != null) //validacion texto
+            {
+                timer.FlashGreen();
+            }
+
             Debug.Log("+ Tiempo");
         }
     }
